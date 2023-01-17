@@ -18,3 +18,5 @@ Projeto realizado durante a Formação Flask da Alura.
 ## 📁 Acesso ao projeto
 - Para fazer download dos arquivos basta ir em // <>CODE / Local/ DownloadZIP
 
+## 🛠️ Abrir e rodar o projeto
+- Apos realizador o download dos arquivos, execute o arquivo prepara_banco.py para realizar a criação do banco de dados no mySQl e em seguida execute o main.py. O arquivo prepara_banco.py so precisa ser execultado uma unica vez.
